@@ -9,5 +9,7 @@ class role extends Model
     //lien ket model voi model
     function users(){
         return $this->hasmany('App\User');
+        //fdsafd
+        /fdf
     }
 }
