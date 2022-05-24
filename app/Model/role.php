@@ -10,6 +10,6 @@ class role extends Model
     function users(){
         return $this->hasmany('App\User');
         //fdsafd
-        /fdf
+    
     }
 }
